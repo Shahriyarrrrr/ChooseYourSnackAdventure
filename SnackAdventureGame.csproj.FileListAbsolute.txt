@@ -1,0 +1,7 @@
+D:\SnackAdventureGame\SnackAdventureGame\SnackAdventureGame\bin\Debug\SnackAdventureGame.exe.config
+D:\SnackAdventureGame\SnackAdventureGame\SnackAdventureGame\bin\Debug\SnackAdventureGame.exe
+D:\SnackAdventureGame\SnackAdventureGame\SnackAdventureGame\bin\Debug\SnackAdventureGame.pdb
+D:\SnackAdventureGame\SnackAdventureGame\SnackAdventureGame\obj\Debug\SnackAdventureGame.csproj.AssemblyReference.cache
+D:\SnackAdventureGame\SnackAdventureGame\SnackAdventureGame\obj\Debug\SnackAdventureGame.csproj.CoreCompileInputs.cache
+D:\SnackAdventureGame\SnackAdventureGame\SnackAdventureGame\obj\Debug\SnackAdventureGame.exe
+D:\SnackAdventureGame\SnackAdventureGame\SnackAdventureGame\obj\Debug\SnackAdventureGame.pdb
