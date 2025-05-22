@@ -6,7 +6,7 @@ Embark on a quest for snacks! This C# console game, 'ChooseYourSnackAdventure', 
 
 Clone or Download:
 
-Clone the repository: git clone https://github.com/YOUR_USERNAME/ChooseYourSnackAdventure.git
+Clone the repository: git clone https://github.com/Shahriyarrrrr/ChooseYourSnackAdventure.git
 
 Or download the ZIP file and extract it.
 
